@@ -1,0 +1,25 @@
+
+body {
+      background: grey;    
+      margin-right: 30px;
+      margin-left: 45px;
+}
+
+
+h1 {
+   color: rgb(104, 3, 3);
+   font-family: cursive;
+}
+
+h2 {
+   font-family: fantasy;
+}
+
+p {
+   font-size: 18px;
+}
+ 
+.img_padrao{
+   margin-bottom: 20px;
+   width: 300px;
+}
